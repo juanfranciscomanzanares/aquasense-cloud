@@ -1,0 +1,17 @@
+# Claves privadas
+*.pem
+*.key
+
+# Archivos de Office temporales
+~$*
+*.tmp
+
+# Diagrama fuente (opcional, quítalo si quieres compartir los .drawio)
+# *.drawio
+
+# Word (solo subimos el PDF)
+*.docx
+
+# Python
+__pycache__/
+*.pyc
