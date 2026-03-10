@@ -9,7 +9,7 @@
 
 Plataforma serverless en AWS para la **ingesta, procesamiento y consulta en tiempo real** de datos de temperatura del Mar Menor (Murcia), con un sistema de **alertas automáticas** ante desviaciones térmicas anómalas.
 
-> Proyecto final de la asignatura **Infraestructura y Computación de Altas Prestaciones (ICAP)** — Universidad de Murcia, Grado en Ingeniería Informática.
+> Proyecto final de la asignatura **Infraestructura y Computación de Altas Prestaciones (ICAP)** — Universidad de Murcia, Grado en Ciencia e Ingenierñia de Datos.
 
 ---
 
